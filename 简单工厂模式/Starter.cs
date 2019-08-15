@@ -2,7 +2,7 @@ namespace designmodedemo.简单工厂模式
 {
   public class Starter : IStart
   {
-    public void run()
+    public void Run()
     {
       var shape1 = ShapeFactory.CreateShape("circle");
       var shape2 = ShapeFactory.CreateShape("square");

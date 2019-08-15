@@ -40,7 +40,7 @@ namespace designmodedemo
 
       try
       {
-        starter.run();
+        starter.Run();
       }
       catch (Exception ex)
       {

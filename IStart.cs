@@ -6,6 +6,6 @@ namespace designmodedemo
 {
     public interface IStart
     {
-        void run();
+        void Run();
     }
 }
