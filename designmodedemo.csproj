@@ -29,10 +29,6 @@
     </None>
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="抽象工厂模式\" />
-  </ItemGroup>
-
   <ProjectExtensions><VisualStudio><UserProperties config_1json__JsonSchema="" /></VisualStudio></ProjectExtensions>
 
 </Project>
